@@ -1,7 +1,7 @@
 <?php
  include('connection.php');
  session_start();
- if(isset($_POST["token"]) && password_verify("deleteteaher",$_POST['token']))
+ if(isset($_POST["token"]) && password_verify("deleteteacher",$_POST['token']))
  {
 
     $id =test_input($_POST['i']);
