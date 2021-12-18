@@ -26,10 +26,10 @@
                 <div class="sidebar-menu">
                 <ul>
                 <li><a href="dashboard.php"><span>Dashboard</span></a></li>
-            <li><a href="addstudent.php"class="active"><span>Add Student</span></a></li>
-            <li><a href="addtest.php"><span>Add Test</span></a></li>
-            <li><a href="addquestion.php" ><span>Add Question</span></a></li>
-            <li><a href="logout.php"><span>Logout</span></a></li>
+                <li><a href="addstudent.php"class="active"><span>Add Student</span></a></li>
+                <li><a href="addtest.php"><span>Add Test</span></a></li>
+                <li><a href="addquestion.php" ><span>Add Question</span></a></li>
+                <li><a href="logout.php"><span>Logout</span></a></li>
           </ul>
                 </div>
             </div> 
